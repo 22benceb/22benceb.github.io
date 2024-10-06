@@ -6,14 +6,23 @@ body
 .header
 {
     background: rgb(111, 132, 103);
-    text-align: left;
     color: rgb(252, 239, 185);
     padding: 10%;
-    top: 0;
     background-image: url(IMG_2560.jpg);
 }
 
-
+.section
+{
+    background:rgb(252, 239, 185);
+    padding: 5%
+}
+.kep { 
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 70px;
+    justify-content: space-around;
+  }
 
 h1
 {
@@ -26,6 +35,13 @@ h2
     font-size: 300%;
     text-align: center;
     color: rgb(252, 239, 185);
+}
+
+h3
+{
+    font-size: 300%;
+    text-align: center;
+    color: rgb(111, 132, 103);
 }
 
 p
