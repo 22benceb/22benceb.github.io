@@ -21,7 +21,7 @@ body
 .foto { 
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction:column;
     margin-bottom: 70px;
     justify-content: space-around;
   }
@@ -29,9 +29,9 @@ body
 .foto img
 {
     height: auto;
-    width: 100%;
+    width: 70%;
+    margin: 10%;
     align-items: center;
-     margin-bottom: 5%;
 }
 
 h1
