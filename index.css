@@ -23,6 +23,7 @@ body
     margin-bottom: 70px;
     justify-content: space-around;
     
+    
   }
   
 .foto img
@@ -30,6 +31,7 @@ body
     height: auto;
     width: 30%;
     align-items: center;
+    margin: 3%;
 }
 
 h1
@@ -57,4 +59,11 @@ p
     text-align: center;
     font-size: 150%;
     color: rgb(252, 239, 185);
+}
+
+figcaption
+{
+    text-align: center;
+    font-size: 100%;
+    color: rgb(111, 132, 103);
 }
