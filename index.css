@@ -1,18 +1,20 @@
-.header
-{
-    background: rgb(111, 132, 103);
-    text-align: center;
-    color: rgb(252, 239, 185);
-    padding: 0%;
-    position: sticky;
-    top: 0;
-}
-
 body
 {
     background-color: rgb(111, 132, 103);
     font-family: Arial, Helvetica, sans-serif;
 }
+.header
+{
+    background: rgb(111, 132, 103);
+    text-align: left;
+    color: rgb(252, 239, 185);
+    padding: 0%;
+    top: 0;
+    font-size: 50%;
+    background-image: url(IMG_2560.jpg);
+}
+
+
 
 h1
 {
@@ -25,7 +27,6 @@ h2
     font-size: 400%;
     text-align: center;
     color: rgb(252, 239, 185);
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 p
@@ -33,5 +34,4 @@ p
     text-align: center;
     font-size: 200%;
     color: rgb(252, 239, 185);
-    font-family: Arial, Helvetica, sans-serif;
 }
