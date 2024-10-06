@@ -3,8 +3,10 @@
     background: rgb(48, 112, 23);
     text-align: center;
     color: beige;
-    padding: 80px;
+    padding: 0%;
     font-family: Arial, Helvetica, sans-serif;
+    position: sticky;
+    top: 0;
 }
 
 h1
