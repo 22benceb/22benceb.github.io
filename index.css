@@ -16,13 +16,21 @@ body
     background-color:rgb(252, 239, 185);
     padding: 5%
 }
-.kep { 
+.foto { 
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 70px;
     justify-content: space-around;
+    
   }
+  
+.foto img
+{
+    height: auto;
+    width: 30%;
+    align-items: center;
+}
 
 h1
 {
