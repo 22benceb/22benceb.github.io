@@ -2,7 +2,7 @@
 {
     background: rgb(111, 132, 103);
     text-align: center;
-    color: rgb(242, 255, 205);
+    color: rgb(252, 239, 185);
     padding: 0%;
     position: sticky;
     top: 0;
@@ -24,11 +24,14 @@ h2
 {
     font-size: 400%;
     text-align: center;
-    color: rgb(242, 255, 205);
+    color: rgb(252, 239, 185);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p
 {
     text-align: center;
     font-size: 200%;
+    color: rgb(252, 239, 185);
+    font-family: Arial, Helvetica, sans-serif;
 }
