@@ -17,6 +17,13 @@ body
 {
     background-color:rgb(252, 239, 185);
     padding: 1%
+    
+}
+.section2
+{
+    color: rgb(252, 239, 185);
+    padding: 1%
+    
 }
 .foto { 
     display: flex;
@@ -58,7 +65,7 @@ p
 {
     text-align: center;
     font-size: 150%;
-    color: rgb(252, 239, 185);
+    
     margin-bottom: 5%;
 }
 
@@ -72,8 +79,7 @@ footer
 {
     text-align: center;
     font-size: 75%;
-    color: rgb(111, 132, 103);
-    background: rgb(252, 239, 185);
+    color: rgb(252, 239, 185);
     margin-top: 3%;
     margin-bottom: 3%;
 }
