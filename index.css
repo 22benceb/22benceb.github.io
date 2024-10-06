@@ -22,15 +22,13 @@ body
     flex-wrap: wrap;
     margin-bottom: 70px;
     justify-content: space-around;
-    
-    
   }
   
 .foto img
 {
     height: auto;
-    width: 30%;
-    display: block;
+    width: 40%;
+    align-items: center;
     margin: 3%;
 }
 
