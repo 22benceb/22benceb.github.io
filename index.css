@@ -8,7 +8,7 @@ body
     background: rgb(111, 132, 103);
     text-align: left;
     color: rgb(252, 239, 185);
-    padding: 1%;
+    padding: 5%;
     top: 0;
     background-image: url(IMG_2560.jpg);
 }
@@ -23,7 +23,7 @@ h1
 
 h2
 {
-    font-size: 400%;
+    font-size: 300%;
     text-align: center;
     color: rgb(252, 239, 185);
 }
@@ -31,6 +31,6 @@ h2
 p
 {
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     color: rgb(252, 239, 185);
 }
