@@ -30,7 +30,7 @@ body
 {
     height: auto;
     width: 30%;
-    align-items: center;
+    display: block;
     margin: 3%;
 }
 
@@ -64,6 +64,5 @@ p
 figcaption
 {
     text-align: center;
-    font-size: 100%;
     color: rgb(111, 132, 103);
 }
