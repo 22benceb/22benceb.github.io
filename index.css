@@ -13,10 +13,16 @@ body
     
 }
 
+#timeDisplay {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
 .section
 {
     background-color:rgb(252, 239, 185);
-    padding: 1%
+    padding: 1%;
+    
     
 }
 .section2
