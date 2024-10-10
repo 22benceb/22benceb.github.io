@@ -19,13 +19,16 @@ body
 {
     background-color:rgb(252, 239, 185);
     padding: 1%;
+    color: rgb(111, 132, 103);
+    align-items: center;
     
     
 }
 .section2
 {
     color: rgb(252, 239, 185);
-    padding: 1%
+    padding: 1%;
+    align-items: center;
     
 }
 .foto { 
@@ -57,12 +60,6 @@ h2
     color: rgb(252, 239, 185);
 }
 
-h3
-{
-    font-size: 400%;
-    text-align: center;
-    color: rgb(111, 132, 103);
-}
 
 p
 {
